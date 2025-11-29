@@ -10,7 +10,9 @@ from sentence_transformers import SentenceTransformer
 from typing import Any, Dict, List, Tuple
 
 # ==== paths (edit for your machine) ====
-BASE_DIR = Path(".").absolute()
+BASE_DIR =  Path(__file__).resolve()
+project_root = BASE_DIR.parent.parent
+
 DATA_DIR = BASE_DIR / "Data" / "ClientToProductData"
 INDEX_PATH  = DATA_DIR / "customers_faiss.index"
 MAP_PARQUET = DATA_DIR / "customers_mapping_deduped.parquet"
