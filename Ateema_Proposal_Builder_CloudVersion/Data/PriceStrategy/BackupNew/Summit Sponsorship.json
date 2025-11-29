@@ -1,0 +1,38 @@
+{
+  "name": "Summit — Sponsorship",
+  "category": "industry relationship",
+  "billing_period": "one_time",
+
+  "price_options": [
+    { "name": "Official Hotel Sponsorship", "price_usd": 7500, "notes": "" },
+    { "name": "\"Bites, Brainstorms, and Business Building Roundtable Luncheon\" Title Sponsor", "price_usd": 7500, "notes": "" },
+    { "name": "The Summit Awards — Title Sponsor", "price_usd": 10000, "notes": "" },
+    { "name": "Wayfinding & Signage Sponsorship", "price_usd": 6950, "notes": "" },
+    { "name": "Step & Repeat Sponsorship", "price_usd": 6950, "notes": "" },
+    { "name": "Lanyard Sponsorship", "price_usd": 8995, "notes": "" },
+    { "name": "Badge Sponsorship", "price_usd": 8995, "notes": "" },
+    { "name": "Official Bag Sponsorship", "price_usd": 7250, "notes": "" },
+    { "name": "Custom Booth Activation Sponsorship", "price_usd": null, "notes": "TBD" },
+    { "name": "The Summit Awards — Category Sponsorships (overall)", "price_usd": null, "notes": "TBD" },
+    { "name": "Recharging Station Sponsorship", "price_usd": 6500, "notes": "" },
+    { "name": "Custom Sponsored Email to Registrants", "price_usd": 1250, "notes": "" },
+    { "name": "Award: The Summit Restaurant Award", "price_usd": 3950, "is_award": true, "business_match": ["supplier","restaurant_partner","food_beverage_supplier","insurance","liquor_distributor"], "application_required": false, "notes": "" },
+    { "name": "Award: The Summit Nightlife Award", "price_usd": 3950, "is_award": true, "business_match": ["distributor","nightlife_partner","beverage_supplier"], "application_required": false, "notes": "" },
+    { "name": "Award: The Summit Attractions Award", "price_usd": 2950, "is_award": true, "business_match": ["ticketing","city_pass","attraction_partner"], "application_required": false, "notes": "" },
+    { "name": "Award: The Summit Hotel Award", "price_usd": 3950, "is_award": true, "business_match": ["hotel_supply","hotel_partner","supporting_company"], "application_required": false, "notes": "" },
+    { "name": "Award: The Summit Concierge Award", "price_usd": 3950, "is_award": true, "business_match": ["general_supporter","client_support"], "application_required": false, "notes": "" },
+    { "name": "Award: The Summit Venue Award", "price_usd": 3950, "is_award": true, "business_match": ["venue","event_services"], "application_required": false, "notes": "" },
+    { "name": "Award: The Summit Event Services Award", "price_usd": 3950, "is_award": true, "business_match": ["event_services","av_company","production_services"], "application_required": false, "notes": "" }
+  ],
+
+  "discount_policy": {
+    "rules": [
+      "No discounts unless within 45 days of Summit and the sponsorship is still available.",
+      "Trade considered only as a last resort if useful to Ateema; escalation steps: $250 → $500 → $750."
+    ],
+    "stacking_allowed": false
+  },
+
+  "sales_strategy": "",
+  "product_description": ""
+}
