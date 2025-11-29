@@ -34,7 +34,7 @@ with st.sidebar:
 
 # ---------- Awards config (Gabby) ----------
 
-AWARDS_PATH = str(project_root / "Data" / "PriceStrategy" / "Summit Awards.json")
+AWARDS_PATH = project_root / "Data" / "PriceStrategy" / "Summit Awards.json"
 try:
     with AWARDS_PATH.open("r", encoding="utf-8") as f:
         data = json.load(f)
