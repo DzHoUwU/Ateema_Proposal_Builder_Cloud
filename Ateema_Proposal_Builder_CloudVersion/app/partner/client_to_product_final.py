@@ -13,7 +13,7 @@ from typing import Any, Dict, List, Tuple
 BASE_DIR =  Path(__file__).resolve()
 project_root = BASE_DIR.parent.parent
 
-DATA_DIR = BASE_DIR / "Data" / "ClientToProductData"
+DATA_DIR = project_root / "Data" / "ClientToProductData"
 INDEX_PATH  = DATA_DIR / "customers_faiss.index"
 MAP_PARQUET = DATA_DIR / "customers_mapping_deduped.parquet"
 META_JSON   = DATA_DIR / "index_meta.json"
