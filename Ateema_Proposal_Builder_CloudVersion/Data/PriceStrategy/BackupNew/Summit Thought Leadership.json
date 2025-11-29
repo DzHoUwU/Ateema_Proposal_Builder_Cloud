@@ -1,0 +1,28 @@
+{
+  "name": "Summit — Thought Leadership",
+  "category": "industry relationship",
+  "billing_period": "one_time",
+
+  "price_options": [
+    {
+      "name": "Thought Leadership Sponsorship: Main Session",
+      "price_usd": 8995,
+      "notes": ""
+    },
+    {
+      "name": "Thought Leadership Sponsorship: Planner Educational Session",
+      "price_usd": 5950,
+      "bundle_qty": 3,
+      "notes": ""
+    },
+    {
+      "name": "Thought Leadership Sponsorship: Tourism Educational Session",
+      "price_usd": 5950,
+      "bundle_qty": 3,
+      "notes": ""
+    }
+  ],
+  "discount_policy": null,
+  "sales_strategy": "",
+  "product_description": ""
+}
