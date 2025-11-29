@@ -1,0 +1,32 @@
+{
+  "name": "Ambassador Program",
+  "category": "industry relationship",
+  "billing_period": "one_time",
+  "price_options": [
+    {
+      "name": "Standard Ambassador Program: Cost per round",
+      "price_usd_by_plan": {
+        "With Any Campaign": 2950,
+        "Retail": 3200
+      },
+      "notes": "Our ambassador meets with clients to get talking points, experience the product, then hits about 100 downtown hotels to educate concierges and distribute materials."
+    },
+    {
+      "name": "Ambassador - Concierge Intro",
+      "price_usd_by_plan": {
+        "With Any Campaign": 2750,
+        "Retail": 3000
+      },
+      "notes": "Ambassador takes client reps to 25 targeted hotels to make introductions."
+    }
+  ],
+  "discount_policy": {
+    "rules": [
+      "No discounts beyond ratecard above. Trade up to $500 accepted only if beneficial to Ateema.",
+      "If previously discounted, reduce discount since model changed and costs increased."
+    ],
+    "stacking_allowed": false
+  },
+  "sales_strategy": "Use for personal concierge relationships; emphasize credibility and personal touch.",
+  "product_description": "Our program is expertly designed to inform concierge and guest services professionals about the unique features and benefits of your brand, targeting 100 premier downtown hotel properties. Our ambassador will immerse themselves in your business to fully grasp your offerings, ensuring they can accurately and effectively communicate the key aspects to concierge staff at a high level.\n\nWe know who the concierges and guest services professionals are in Chicago’s hotels because our Concierge Ambassador visits the hotels to connect with them and gather their contact information on a regular basis. This group depends on Ateema to provide tools and information to help them serve their guests. We leverage this relationship for our quality clients in order to help them communicate and connect with Chicago’s concierges and guest services professionals in order to build their business.\n\nWhy We’re Unique\nElevating Hospitality: Unparalleled Concierge & Guest Service Relationships\nAt our core, we have cultivated the finest concierge and guest service relationships in the vibrant city of Chicago. Our dedicated Concierge Ambassadors engage in regular visits, ensuring a robust and dynamic connection. Committed to fostering a thriving community, we curate exclusive networking events that bring together the foremost hospitality influencers.\nEmpowering Excellence: Tailored Tools and Information\nOur commitment extends beyond interaction – we empower concierges with essential tools and information, forging a path to excellence. Through our distinguished Concierge Preferred Magazine, we proudly deliver the sole visitor publication found in esteemed hotels. Our meticulously crafted Chicago Neighborhood Hotel Maps stand as the exclusive navigational guides within these premier establishments.\nElevate Your Expectations: Choose Unsurpassed Excellence\nIn a league of our own, we redefine the standards of guest service support in Chicago. Opt for the distinctive choice that redefines hospitality – partner with us and experience the pinnacle of concierge services.\n\nConcierge Research\n9 out of 10 concierge and guest services professionals depend on Ateema to help them provide a better experience for their guests.\n2/3 of guests that use hotel concierge or guest services teams ask for direct advice, or recommendations.\nConcierge and guest services pros suggest alternative businesses to 96% of guests seeking input on their own research or itinerary.\n96% of concierge and guest services professionals depend on Concierge Preferred Magazine & Chicago Neighborhood Maps to direct guests and help them stay up to date with things to do in Chicago.\n\nDirect Services\nConcierge Ambassador Program\nOur representative serves as an ambassador to your company by visiting the 100 downtown hotels on behalf of your business. This service can open up the powerful relationships and sales channels that you’ve been looking for from hotels. She can do the following for you:\n- Educate the hotel personnel about your business based upon the details you provide.\n- Survey concierge and guest service representatives with questions that relate to your business.\n- Deliver them brochures, gifts, invitations and more.\n"
+}
