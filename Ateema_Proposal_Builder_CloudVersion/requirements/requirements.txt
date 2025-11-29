@@ -4,6 +4,6 @@ numpy==2.3.4
 langchain-core==1.0.0
 python-dateutil==2.9.0.post0
 pyarrow==21.0.0
-faiss-cpu
+faiss-cpu==1.12.0
 typing-extensions==4.15.0
 sentence-transformers==5.1.2
