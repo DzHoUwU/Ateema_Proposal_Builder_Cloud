@@ -1,0 +1,18 @@
+{
+  "name": "Map Advertisement",
+  "price_options": [
+    {
+      "name": "Map ad",
+      "price_usd": 200,
+      "notes": "Includes up to 2 changes, contact Argen for fulfillment"
+    }
+  ],
+  "discount_policy": {
+    "rules": [
+      "For clients who have become accustomed to free creative, we can give them the next batch for free, and begin to charge from there."
+    ],
+    "stacking_allowed": false
+  },
+  "sales_strategy": "Add creative to PandaDocs when ordering Chicago Does Interactive Map placements.",
+  "product_description": "Bring your brand to life on the Chicago Does Interactive Visitor Map—the only citywide printed and digital map trusted by Chicago hotel concierges. Your map advertisement connects directly with thousands of visitors through 150+ hotels and attractions, featuring your logo, visuals, and a QR link to your digital listing. Ideal for highlighting must-visit destinations, dining, and entertainment options, this ad keeps your business in front of guests when they decide where to go next."
+}

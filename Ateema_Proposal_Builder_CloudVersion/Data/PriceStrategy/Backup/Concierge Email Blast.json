@@ -1,0 +1,29 @@
+{
+  "name": "Email Blast",
+  "price_options": [
+    {
+      "name": "Blast Email - concierge",
+      "price_usd": {
+        "with multiple": 450,
+        "Retail": 750
+      },
+      "notes": "FREEBIES",
+      "audience": "to hotel concierges",
+      "distribution_estimate": 1200
+    },
+    {
+      "name": "Planner Eblast",
+      "price_usd": {
+        "Retail": 2350
+      },
+      "discount_up_to_usd": 1750
+    }
+  ],
+  "discount_policy": {
+    "rules": [
+      "No discounts beyond those built into"
+    ],
+    "stacking_allowed": false
+  },
+  "sales_strategy": null
+}
