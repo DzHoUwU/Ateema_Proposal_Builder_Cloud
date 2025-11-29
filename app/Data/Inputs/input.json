@@ -1,0 +1,52 @@
+{
+    "client_profile": "Business Name: River North Seasonal Kitchen\nType: Restaurant - Contemporary American\nFocus: Launch seasonal tasting menu; boost lunch & pre-theatre reservations\nMarket Target: downtown professionals, tourists near River North theatres\nBusiness Description: Chef-driven American spot in River North introducing a rotating seasonal menu with pre-theatre seating.",
+    "budget": 20000,
+    "similar_clients": [
+      {
+        "name": "THE ROYAL SONESTA CHICAGO RIVER NORTH",
+        "purchased": [
+          "Chicago Does Reel"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "DineAmic Hospitality",
+        "purchased": [
+          "Eblast",
+          "The Summit - Booth Non Advertiser"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "The Northman Beer & Cider Garden",
+        "purchased": [
+          "Ambassador Program",
+          "Eblast"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Legacy Hospitality",
+        "purchased": [
+          "The Summit - Booth Non Advertiser"
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Vaughan Hospitality Group",
+        "purchased": [
+          "Chicago Does Interactive Map",
+          "Eblast",
+          "The Summit - Booth Advertiser"
+        ],
+        "notes": ""
+      }
+    ],
+    "candidate_products": [
+      "Ambassador Program",
+      "Chicago Does Interactive Map",
+      "Chicago Does Reel",
+      "Email blast",
+      "Summit 2026 — Branding Opportunities"
+    ]
+  }
