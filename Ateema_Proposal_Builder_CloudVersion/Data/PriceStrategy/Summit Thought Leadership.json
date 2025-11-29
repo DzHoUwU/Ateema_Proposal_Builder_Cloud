@@ -1,0 +1,28 @@
+{
+  "name": "Summit — Thought Leadership",
+  "category": "industry relationship",
+  "billing_period": "one_time",
+
+  "price_options": [
+    {
+      "name": "Thought Leadership Sponsorship: Main Session",
+      "price_usd": 8995,
+      "notes": "Sponsor the event’s flagship session and receive premier visibility: deliver opening remarks or a 3-minute video; brand placement in invitations, program, website, onsite signage and trade-show TV rotations; a premium table with signage; six tickets to the tradeshow and educational sessions; logo on banners, collateral, marketing, and emails; load-in support with a scheduled time; session web listing; ability to distribute handouts/seat drops; branded slides; the attendee registration list; a half-page program ad; and inclusion in the on-site/online program and directory."
+    },
+    {
+      "name": "Thought Leadership Sponsorship: Planner Educational Session",
+      "price_usd": 5950,
+      "bundle_qty": 3,
+      "notes": "Sponsor a high-attendance education session and get premier visibility: open with remarks or a 3-minute video; prominent branding in invitations, program, website, onsite signage, banners, collateral, marketing, and emails; a premium table with black linen and table sign; logo/ad in trade-show TV rotations; ability to distribute handouts/seat drops; branded session slides; six tickets to the tradeshow and educational sessions; dedicated load-in support with a scheduled time; session listing on the website; the attendee registration list; a half-page program ad with on-site/online features; and full company listing with contact details in the program and TheSummitChicago.com directory."
+    },
+    {
+      "name": "Thought Leadership Sponsorship: Tourism Educational Session",
+      "price_usd": 5950,
+      "bundle_qty": 3,
+      "notes": "Sponsor a high-attendance education session and gain broad visibility: deliver opening remarks or a 3-minute video; prominent branding in invitations, program, website, onsite signage, banners, collateral, marketing, and emails; premium table with black linen and table sign; logo/ad in trade-show TV rotations; ability to distribute handouts/seat drops; branded session slides; dedicated load-in support with a scheduled time; session webpage listing; attendee registration list; a half-page program ad with on-site/online features; and full company listing with contact details in the program and TheSummitChicago.com directory, plus six tickets to the tradeshow and educational sessions (lunch not included)."
+    }
+  ],
+  "discount_policy": null,
+  "sales_strategy": "For clients budget over $20,000",
+  "product_description": "Position your company as a trusted voice at the Summit by sponsoring a featured education session. Each package includes an on-stage welcome or 3-minute video, prominent branding in invitations, the program and website, onsite signage, and trade-show TV rotations. You’ll receive a premium tabletop setup (black linen + branded table sign), the ability to distribute handouts/seat drops, branded session slides, and a dedicated staff contact with scheduled load-in. Sponsors also get six tickets to the tradeshow and educational sessions (lunch excluded), logo placement on event banners/collateral/marketing emails, a half-page ad with on-site/online recognition, access to the session’s attendee registration list, and a full company listing with contact details in the event program and online directory."
+}
