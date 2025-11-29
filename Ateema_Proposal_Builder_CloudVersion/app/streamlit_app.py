@@ -13,14 +13,15 @@ from ateema.upgrader import run_fill_to_cap
 from ateema.formatting import format_product_block
 from ateema.pricing import apply_discounts,get_effective_unit_price, first_known_price
 
-BASE_DIR = Path(".").absolute()
+BASE_DIR =  Path(__file__).resolve()
+project_root = BASE_DIR.parent.parent
 # ---------- Page ----------
 st.set_page_config(page_title="Ateema – Proposal Builder", page_icon="🧭", layout="wide")
 st.title("Ateema – Proposal Builder")
 
 # ---------- Sidebar (old layout restored) ----------
 
-DEFAULT_PRODUCTS = str(BASE_DIR / "Data" / "PriceStrategy")
+DEFAULT_PRODUCTS = str(project_root / "Data" / "PriceStrategy")
 
 with st.sidebar:
     st.header("Settings")
