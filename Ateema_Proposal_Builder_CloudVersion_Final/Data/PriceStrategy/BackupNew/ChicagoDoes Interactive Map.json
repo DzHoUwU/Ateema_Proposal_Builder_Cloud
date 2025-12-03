@@ -1,0 +1,72 @@
+{
+  "name": "Chicago Does Interactive Map",
+  "category": "tourist messaging",
+  "billing_period": "quarter",
+  "duration_quarter_map": {
+    "1X": 1,
+    "2X": 2,
+    "3X": 3,
+    "4X": 4
+  },
+
+  "price_options": [
+    {
+      "name": "Picture listing",
+      "price_usd": {
+        "1X": 1550,
+        "2X": 1511,
+        "3X": 1473,
+        "4X": 1288
+      }
+    },
+    {
+      "name": "1/4 panel",
+      "price_usd": {
+        "1X": 3425,
+        "2X": 3339,
+        "3X": 3254,
+        "4X": 2847
+      }
+    },
+    {
+      "name": "1/2 panel",
+      "price_usd": {
+        "1X": 6000,
+        "2X": 5850,
+        "3X": 5700,
+        "4X": 4988
+      }
+    },
+    {
+      "name": "Panel",
+      "price_usd": {
+        "1X": 10820,
+        "2X": 10550,
+        "3X": 10279,
+        "4X": 8994
+      }
+
+    },
+    {
+      "name": "Premium - Back Cover",
+      "price_usd": {
+        "1X": 17000,
+        "2X": 16575,
+        "3X": 16150,
+        "4X": 14131
+      }
+    }
+  ],
+  "discount_policy": {
+    "rules": [
+      "Highlight discounts baked into ratecard through frequency. They can save 17% off of 1x rate if they sign auto renew",
+      "They can save 10% by prepaying for the entire year  (we could give them 10% off on any ads that they prepay for if they don't want to prepay for the entire year)",
+      "Use trade as a tool to close if the trade is usable to Ateema. You can use up to 5% of the total program in trade. Must be collected before the first ad runs.",
+      "Seasonal businesses - sell picture listings in the offseason to keep their prices down but maintain a presence in both maps.",
+      "BASEMENT PRICING: For 1 ad - give them 2x rate, For 2 ads - give them 3x rate, For 3 ads - give them Auto-renew rate, For Auto-renew - give extra 2.5% off."
+    ],
+    "stacking_allowed": false
+  },
+  "sales_strategy": "Only Chicago visitor tool in hotels, multi-touch, multi-media, fairly priced, puts client in front of visitors and hotel staffs, and gives visitors all the information they need to choose our clients",
+  "product_description": "(Just here) marketing tool that blends the trust of printed hotel maps with the engagement and immediacy of mobile video. It puts your business in the hands of visitors—literally—and keeps you top of mind as they decide where to go, what to eat, and what to do next.\nWhether they’re picking up a printed map from a concierge or scanning a QR code on a table tent, your ad appears in the right moment—when they’re ready to spend.\nWhat You Need To Know\nWe’re the only citywide visitor map featured in Chicago hotels—concierge teams rely on it to guide their guests and offer trusted recommendations.\nPut your brand where decisions are made—on the tool hotel staff and visitors use every day.\nChoose from multiple ad sizes: Picture Listing, ¼ Panel, ½ Panel, Full Panel, or Premium.\nPrinted maps are published quarterly—in January, April, July, and October—and distributed in 150+ hotels, Big Bus stops, and partner businesses.\nTotal print distribution: 137,500 per quarter / 550,000 annually\nYour print ad investment gets you added value including a QR code in your ad that links to your listing on our online map. Your listing features your video & directions, and you can add other action links including buy a ticket, make a reservation, see our reviews, and more!\nToday’s visitors explore with their phones in hand. That’s why every printed ad on our map connects directly to a mobile-friendly listing—complete with video, directions, and links to ticketing, reservations, and more.\nOur printed maps offer a tactile, concierge-trusted experience. The digital map brings your brand to life with interactive content visitors can act on instantly.\nTogether, they deliver the power of print and the immediacy of digital—driving real results and foot traffic to your business.\nDiscover the best of both worlds with Chicago Does—right in their hands, on their minds, and at your door."
+}
