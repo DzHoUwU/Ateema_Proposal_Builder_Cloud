@@ -1,0 +1,33 @@
+{
+  "name": "Network Events",
+  "category": "industry relationship",
+  "billing_period": "one_time",
+  "price_options": [
+    {
+      "name": "HOST",
+      "price_usd": 3500,
+      "notes": "Participation is complimentary for clients spending over $12,500 annually; exceptions may be made for brand or strategic value with president approval."
+    },
+    {
+      "name": "ATTEND",
+      "price_usd": 2500,
+      "notes": "Clients receive two complimentary invitations to each of Ateema’s ten annual networking events, offering curated access to key industry professionals and high-return relationship opportunities."
+    }
+  ],
+  "discount_policy": {
+    "rules": [
+      [
+        "HOST: Free if client spends over $12,500 annually; otherwise $3,500."
+      ],
+      [
+        "Exceptions may be approved by the President if the event benefits the Ateema brand or fulfills a strategic need."
+      ],
+      [
+        "ATTEND: Every client receives two invitations to each networking event as added value; no additional discounts apply beyond this benefit."
+      ]
+    ],
+    "stacking_allowed": false
+  },
+  "sales_strategy": "Typically we have at least 10 events per year. Use this dollar amount to show the overall financial value for the event on recommendations. For those who attend the events: we build the right relationships and database, create invitations, get the right audience in the room, do check-in, manage the event, provide food and drinks, etc. A client can meet just 1 concierge, or planner and make more then the cost of the clients overall investment with us in just one year. Where else can the client get this access?",
+  "product_description": "Concierge Networking Events\nBring together Chicago’s concierge and guest services professionals to show off your business and all of your offerings.\nYour business is responsible for providing quality food & beverages while putting a spotlight on your venue’s unique offerings. Ateema will market the event and register attendees."
+}

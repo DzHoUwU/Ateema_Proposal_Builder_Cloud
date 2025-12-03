@@ -1,0 +1,145 @@
+{
+  "name": "Summit — Booth",
+  "category": "industry relationship",
+  "billing_period": "one_time",
+
+  "seasonal_price_windows": {
+    "4/15-6/14": {
+      "Basic Booth — advertiser rate": 2795,
+      "Basic Booth — non-advertiser rate": 3195,
+      "Premium Booth": 3595,
+      "Double Booth": 4645,
+      "Double Premium": 5445,
+      "Dominant Booth": 4995,
+      "Double Dominant": 5795,
+      "Illinois CVB Booth (in Illinois) — Local DMO": 2795,
+      "Illinois CVB Double Booth — Local DMO": 4495,
+      "DMO (out of Illinois)": 3495
+    },
+    "6/15-8/31": {
+      "Basic Booth — advertiser rate": 2895,
+      "Basic Booth — non-advertiser rate": 3295,
+      "Premium Booth": 3695,
+      "Double Booth": 4745,
+      "Double Premium": 5545,
+      "Dominant Booth": 5095,
+      "Double Dominant": 5895,
+      "Illinois CVB Booth (in Illinois) — Local DMO": 2795,
+      "Illinois CVB Double Booth — Local DMO": 4495,
+      "DMO (out of Illinois)": 3495
+    },
+    "9/1-9/30": {
+      "Basic Booth — advertiser rate": 2995,
+      "Basic Booth — non-advertiser rate": 3395,
+      "Premium Booth": 3795,
+      "Double Booth": 4845,
+      "Double Premium": 5645,
+      "Dominant Booth": 5195,
+      "Double Dominant": 5995,
+      "Illinois CVB Booth (in Illinois) — Local DMO": 2795,
+      "Illinois CVB Double Booth — Local DMO": 4495,
+      "DMO (out of Illinois)": 3495
+    },
+    "Before Halloween": {
+      "Basic Booth — advertiser rate": 3095,
+      "Basic Booth — non-advertiser rate": 3495,
+      "Premium Booth": 3895,
+      "Double Booth": 4945,
+      "Double Premium": 5745,
+      "Dominant Booth": 5295,
+      "Double Dominant": 6095
+    },
+    "Before Christmas": {
+      "Basic Booth — advertiser rate": 3195,
+      "Basic Booth — non-advertiser rate": 3595,
+      "Premium Booth": 3995,
+      "Double Booth": 5045,
+      "Double Premium": 5845,
+      "Dominant Booth": 5395,
+      "Double Dominant": 6195
+    },
+    "Before Valentine's Day": {
+      "Basic Booth — advertiser rate": 3295,
+      "Basic Booth — non-advertiser rate": 3695,
+      "Premium Booth": 4095,
+      "Double Booth": 5145,
+      "Double Premium": 5945,
+      "Dominant Booth": 5495,
+      "Double Dominant": 6295
+    },
+    "After Valentine's Day": {
+      "Basic Booth — advertiser rate": 3395,
+      "Basic Booth — non-advertiser rate": 3795,
+      "Premium Booth": 4195,
+      "Double Booth": 5245,
+      "Double Premium": 6045,
+      "Dominant Booth": 5595,
+      "Double Dominant": 6395
+    }
+  },
+
+  "price_options": [
+    {
+      "name": "Basic Booth — advertiser rate",
+      "price_usd": 2795,
+      "target_budget_max": 10000,
+      "notes": "Target market: any business, especially under $10,000 annual budget.Offers discounted pricing and added visibility for companies that already advertise with Ateema through other marketing products."
+    },
+    {
+      "name": "Basic Booth — non-advertiser rate",
+      "price_usd": 3195,
+      "target_budget_max": 10000,
+      "notes": "Target market: any business, especially under $10,000 annual budget.Provides full exhibitor benefits at the standard rate for businesses not currently advertising with Ateema."
+    },
+    {
+      "name": "Premium Booth",
+      "price_usd": 3595,
+      "target_budget_max": 15000,
+      "notes": "Target market: any business, especially under $15,000 annual budget.Provides a prime trade show location with one six-foot table, directory listing, four event tickets, and load-in assistance."
+    },
+    {
+      "name": "Double Booth",
+      "price_usd": 4645,
+      "target_budget_max": 15000,
+      "notes": "Target market: any business, especially under $15,000 annual budget.Offers two six-foot tables, directory listing, six event tickets, and premium floor placement with load-in assistance."
+    },
+    {
+      "name": "Double Premium",
+      "price_usd": 5445,
+      "target_budget_max": 15000,
+      "notes": "Target market: any business, especially under $15,000 annual budget.Delivers prime floor placement and marketing visibility for double booth seeking brand recognition"
+    },
+    {
+      "name": "Dominant Booth",
+      "price_usd": 4995,
+      "target_budget_max": 15000,
+      "notes": "Target market: any business, especially under $15,000 annual budget.Provides a premium location with one six-foot table, six event tickets, load-in support, and exclusive brand visibility through video screen ads, email and signage logos, plus a half-page program advertisement."
+    },
+    {
+      "name": "Double Dominant",
+      "price_usd": 5795,
+      "target_budget_max": 15000,
+      "notes": "Target market: any business, especially under $15,000 annual budget.Offers expanded space and top-tier brand exposure with two tables, premium placement, and multi-channel marketing visibility"
+    },
+
+    {
+      "name": "Illinois CVB Booth (in Illinois) — Local DMO",
+      "price_usd": 2795,
+      "notes": "Target market: any CVB (convention bureau in Illinois).This is a collective exhibition space for regional CVBs, offering one six-foot table, ten event tickets, directory listing, and shared sponsor visibility through program ads and on-site screen promotion within the featured “Beyond Chicago Square.”"
+    },
+    {
+      "name": "Illinois CVB Double Booth — Local DMO",
+      "price_usd": 4495,
+      "notes": "Target market: any CVB (convention bureau in Illinois).It offers two six-foot tables, fifteen event tickets, and inclusion in the featured “Beyond Chicago Square” collective exhibit, with sponsor recognition through a half-page program ad and on-screen promotion to highlight Chicagoland CVBs and businesses"
+    },
+    {
+      "name": "DMO (out of Illinois)",
+      "price_usd": 3495,
+      "notes": "Target market: any CVB or DMO from outside of Illinois."
+    }
+  ],
+
+  "discount_policy": null,
+  "sales_strategy": "",
+  "product_description": "The Summit Booth products provide one-time exhibitor opportunities for businesses to showcase their brand, network with 1,200+ hospitality professionals, and gain visibility through tiered booth options and marketing exposure."
+}

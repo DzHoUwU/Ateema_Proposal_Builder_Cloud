@@ -1,0 +1,32 @@
+{
+  "name": "Ambassador Program",
+  "category": "industry relationship",
+  "billing_period": "one_time",
+  "price_options": [
+    {
+      "name": "Standard Ambassador Program: Cost per round",
+      "price_usd": {
+        "With Any Campaign": 2950,
+        "Retail": 3200
+      },
+      "notes": "Our ambassador meets with clients to get talking points, experience the product, then hits about 100 downtown hotels to educate concierges and distribute materials."
+    },
+    {
+      "name": "Ambassador - Concierge Intro",
+      "price_usd": {
+        "With Any Campaign": 2750,
+        "Retail": 3000
+      },
+      "notes": "Ambassador takes client reps to 25 targeted hotels to make introductions."
+    }
+  ],
+  "discount_policy": {
+    "rules": [
+      "No discounts beyond ratecard above. Trade up to $500 accepted only if beneficial to Ateema.",
+      "If previously discounted, reduce discount since model changed and costs increased."
+    ],
+    "stacking_allowed": false
+  },
+  "sales_strategy": "Use for personal concierge relationships; emphasize credibility and personal touch.",
+  "product_description": "The Concierge Ambassador Program provides hands-on in-person marketing within Chicago’s hotel network. A dedicated Ateema representative visits 25 to 100 downtown hotel properties on behalf of your business to educate concierges and guest service teams, distribute brochures or gifts, and strengthen your presence in the hospitality community. This personal outreach builds valuable relationships that drive visitor referrals and brand recognition directly at the point of guest decision. It’s ideal for local businesses seeking deeper connections with hotel influencers and concierge staff."
+}
