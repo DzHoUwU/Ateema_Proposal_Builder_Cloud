@@ -11,7 +11,7 @@ from typing import Any, Dict, List, Tuple
 
 # ==== paths (edit for your machine) ====
 BASE_DIR =  Path(__file__).resolve()
-project_root = BASE_DIR.parent.parent
+project_root = BASE_DIR.parent.parent.parent
 
 DATA_DIR = project_root / "Data" / "ClientToProductData"
 INDEX_PATH  = DATA_DIR / "customers_faiss.index"
