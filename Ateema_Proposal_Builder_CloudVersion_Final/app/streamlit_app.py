@@ -38,7 +38,7 @@ if logo_wide_path.exists():
     left_co, cent_co, last_co = st.columns([1, 2, 1])
 
     with cent_co:
-        st.image(str(logo_wide_path), use_container_width=True)
+        st.image(str(logo_wide_path), width="stretch")
 else:
     st.title("Ateema – Proposal Builder")
 
